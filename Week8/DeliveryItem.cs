@@ -11,7 +11,7 @@ public abstract class DeliveryItem
         Weight = weight;
     }
 
-    public abstract double CalculateDeliveryCost();
+    public abstract double CalculateCost();
     
     
 
